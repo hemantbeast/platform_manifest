@@ -12,7 +12,7 @@ Initializing Repository
 
 Repo initialization:
 
-    $ repo init -u https://github.com/AICP/platform_manifest.git -b r11.1
+    $ repo init -u https://github.com/hemantbeast/platform_manifest.git -b r11.1
 
 
 sync repo :
