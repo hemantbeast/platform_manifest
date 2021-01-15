@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- dumpling -->
+  <project name="hemantbeast/device_oneplus_dumpling" path="device/oneplus/dumpling" remote="github" revision="r11.0" />
+  <project name="hemantbeast/device_oneplus_msm8998-common" path="device/oneplus/msm8998-common" remote="github" revision="r11.0" />
+  <project name="hemantbeast/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="r11.0" />
+  <project name="hemantbeast/kernel_oneplus_msm8998" path="kernel/oneplus/msm8998" remote="github" revision="r11.1" />
+  <project name="DerpFest-Devices/vendor_addons_onepluscamera" path="vendor/addons/onepluscamera" remote="github" revision="ten" />
+
+  <!-- santoni -->
+  <!--<project name="AICP/device_xiaomi_santoni" path="device/xiaomi/santoni" remote="aicp" revision="q10.0" />
+  <project name="hemantbeast/android_kernel_xiaomi_santoni" path="kernel/xiaomi/santoni" remote="github" revision="q10.0" />
+  <project name="hemantbeast/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="gitlab" revision="q10.0-new" />-->
+
+  <!-- faceunlock -->
+  <project name="hemantbeast/external_motorola_faceunlock" path="external/motorola/faceunlock" remote="gitlab" revision="r11.0" />
+</manifest>

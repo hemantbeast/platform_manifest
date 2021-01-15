@@ -34,6 +34,9 @@
   <!-- Include lineage repos -->
   <include name="lineage.xml" />
 
+  <!-- Include device repos -->
+  <include name="device.xml" />
+
     <!-- AICP additions -->
   <project path="device/aicp/sepolicy" name="AICP/device_aicp_sepolicy" remote="aicp" />
   <project path="frameworks/opt/aicpgear" name="AICP/frameworks_opt_aicpgear" remote="aicp" />
