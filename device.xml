@@ -14,7 +14,7 @@
   <project path="vendor/xiaomi" name="hemantbeast/proprietary_vendor_xiaomi" remote="gitlab" revision="q10.0-new" />-->
 
   <!-- faceunlock -->
-  <project path="external/motorola/faceunlock" name="hemantbeast/external_motorola_faceunlock" remote="gitlab" revision="r11.0" />
+  <project path="external/moto/faceunlock" name="crdroidandroid/android_external_moto_faceunlock" remote="gitlab" revision="11.0" />
 
   <!-- upstream -->
   <project path="platform_manifest" name="hemantbeast/platform_manifest" remote="github" revision="r11.1" />
