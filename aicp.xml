@@ -72,20 +72,21 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="frameworks/base" name="AICP/frameworks_base" remote="aicp" />
+  <!--<project path="frameworks/base" name="AICP/frameworks_base" remote="aicp" />-->
   <project path="frameworks/native" name="AICP/frameworks_native" remote="aicp" />
   <project path="packages/apps/Contacts" name="AICP/packages_apps_Contacts" remote="aicp" />
   <project path="packages/apps/Dialer" name="AICP/packages_apps_Dialer" remote="aicp" />
-  <project path="packages/apps/Launcher3" name="AICP/packages_apps_Launcher3" remote="aicp" />
+  <!--<project path="packages/apps/Launcher3" name="AICP/packages_apps_Launcher3" remote="aicp" />-->
   <project path="packages/apps/Messaging" name="AICP/packages_apps_Messaging" groups="pdk-fs" remote="aicp" />
-  <project path="packages/apps/Settings" name="AICP/packages_apps_Settings" remote="aicp" />
+  <!--<project path="packages/apps/Settings" name="AICP/packages_apps_Settings" remote="aicp" />-->
   <project path="packages/apps/ThemePicker" name="AICP/packages_apps_ThemePicker" remote="aicp" />
   <project path="packages/apps/WallpaperPicker2" name="AICP/packages_apps_WallpaperPicker2" groups="pdk-fs" remote="aicp" />
   <project path="packages/modules/DnsResolver" name="AICP/packages_modules_DnsResolver" groups="pdk-cw-fs,pdk-fs" remote="aicp" />
   <project path="packages/services/Telecomm" name="AICP/packages_services_Telecomm" remote="aicp" />
-  <project path="platform_manifest" name="AICP/platform_manifest" remote="aicp" />
+  <!--<project path="platform_manifest" name="AICP/platform_manifest" remote="aicp" />-->
   <project path="system/core" name="AICP/system_core" groups="pdk" remote="aicp" />
 
   <!-- Other additions -->
   <project path="external/hosts" name="StevenBlack/hosts" remote="github" revision="master" />
+  <project path="external/pulse" name="AICP/external_pulse" remote="aicp" />
 </manifest>
