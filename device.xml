@@ -21,5 +21,9 @@
   <project path="frameworks/base" name="hemantbeast/frameworks_base" remote="github" revision="r11.1" />
   <project path="packages/apps/Launcher3" name="hemantbeast/packages_apps_Launcher3" remote="github" revision="r11.1" />
   <project path="packages/apps/Settings" name="hemantbeast/packages_apps_Settings" remote="github" revision="r11.1" />
+ 
+  <!-- additional -->
+  <project path="frameworks/opt/net/wifi" name="crdroidandroid/android_frameworks_opt_net_wifi" remote="github" revision="11.0" />
+  <project path="system/security" name="crdroidandroid/android_system_security" remote="github" revision="11.0" />
 
 </manifest>
