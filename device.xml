@@ -15,7 +15,7 @@
 
   <!-- faceunlock -->
   <project path="external/faceunlock" name="hemantbeast/android_external_faceunlock" remote="gitlab" revision="r11.1" />
-  <project path="packages/apps/FaceUnlockService" name="hemantbeast/android_packages_apps_FaceUnlockService" remote="github" revision="r11.1" />
+  <project path="packages/apps/FaceUnlockService" name="hemantbeast/packages_apps_FaceUnlockService" remote="github" revision="r11.1" />
 
   <!-- upstream -->
   <project path="platform_manifest" name="hemantbeast/platform_manifest" remote="github" revision="r11.1" />
