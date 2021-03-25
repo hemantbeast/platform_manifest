@@ -19,7 +19,6 @@
   <!-- upstream -->
   <project path="platform_manifest" name="hemantbeast/platform_manifest" remote="github" revision="r11.1" />
   <project path="frameworks/base" name="hemantbeast/frameworks_base" remote="github" revision="r11.1" />
-  <project path="packages/apps/Launcher3" name="hemantbeast/packages_apps_Launcher3" remote="github" revision="r11.1" />
   <project path="packages/apps/Settings" name="hemantbeast/packages_apps_Settings" remote="github" revision="r11.1" />
   <project path="prebuilts/clang/host/linux-x86_proton/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master" clone-depth="1" />
  
